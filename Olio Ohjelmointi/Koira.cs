@@ -11,7 +11,18 @@ namespace Olio_Ohjelmointi
         public string Nimi;
         public string Rotu;
         public int Ikä;
-        
+
+        // Konstruktori jolla pakotetaan olion luonti tilanteessa
+        // antamana tarvittavat tiedot oliolle (esim nimi, rotu ja ikä)
+
+        public Koira(string nimi, string rotu, int ikä)
+        {
+            Nimi = nimi;
+            Rotu = rotu;
+            Ikä = ikä;
+        }
+
+
         public void HaeTiedot()
         {
             Console.WriteLine("Koiran nimi on" + Nimi);
