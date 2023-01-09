@@ -1,0 +1,8 @@
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Olio Ohjelmointi\bin\Debug\Olio Ohjelmointi.exe.config
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Olio Ohjelmointi\bin\Debug\Olio Ohjelmointi.exe
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Olio Ohjelmointi\bin\Debug\Olio Ohjelmointi.pdb
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Olio Ohjelmointi\obj\Debug\Olio Ohjelmointi.csproj.AssemblyReference.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Olio Ohjelmointi\obj\Debug\Olio Ohjelmointi.csproj.SuggestedBindingRedirects.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Olio Ohjelmointi\obj\Debug\Olio Ohjelmointi.csproj.CoreCompileInputs.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Olio Ohjelmointi\obj\Debug\Olio Ohjelmointi.exe
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Olio Ohjelmointi\obj\Debug\Olio Ohjelmointi.pdb
