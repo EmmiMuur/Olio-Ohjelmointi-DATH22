@@ -12,6 +12,8 @@ namespace Harjoitus2___Opiskelija
         {
             Opiskelija opiskelija1 = new Opiskelija("Kalle", "Careeria", 260);
             opiskelija1.TulostaData();
+            opiskelija1.Muokkaaopintopisteitä(5);
+            opiskelija1.TulostaData();
         }
 
     }
