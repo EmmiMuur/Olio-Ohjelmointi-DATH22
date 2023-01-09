@@ -1,20 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Harjoitus1___Ajoneuvo
+namespace Harjoitus2___Opiskelija
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-
-            Ajoneuvo mopo = new Ajoneuvo("pv", 40000, 2);
-            mopo.TulostaData();
-
+            Opiskelija opiskelija1 = new Opiskelija("Kalle", "Careeria", 260);
+            opiskelija1.TulostaData();
         }
+
     }
 }
