@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6A26140B-D9E6-4590-B5C1-F6159AD7ABE9}</ProjectGuid>
+    <ProjectGuid>{EAFB6180-CC4D-4E4D-A2F9-79030A39D9F4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Harjoitus1___Ajoneuvo</RootNamespace>
-    <AssemblyName>Harjoitus1 - Ajoneuvo</AssemblyName>
+    <RootNamespace>Harjoitus5___Laskin</RootNamespace>
+    <AssemblyName>Harjoitus5 - Laskin</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ajoneuvo.cs" />
+    <Compile Include="Laskin.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

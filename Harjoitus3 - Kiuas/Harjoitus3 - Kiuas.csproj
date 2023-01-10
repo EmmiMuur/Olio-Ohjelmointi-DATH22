@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6A26140B-D9E6-4590-B5C1-F6159AD7ABE9}</ProjectGuid>
+    <ProjectGuid>{F0385471-4D68-401B-85FC-65271C83DE4D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Harjoitus1___Ajoneuvo</RootNamespace>
-    <AssemblyName>Harjoitus1 - Ajoneuvo</AssemblyName>
+    <RootNamespace>Harjoitus3___Kiuas</RootNamespace>
+    <AssemblyName>Harjoitus3 - Kiuas</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ajoneuvo.cs" />
+    <Compile Include="Kiuas.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
