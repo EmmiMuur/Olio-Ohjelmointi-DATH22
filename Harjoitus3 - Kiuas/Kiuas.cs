@@ -12,6 +12,39 @@ namespace Harjoitus3___Kiuas
         public int Lämpötila;
         public int Kosteus;
 
+        public void KiuasPäälle()
+        {
+            Onkopäällä= true;
+            Console.WriteLine("Kiuas on päällä");
+        }
+        
+        public void KiuasPois()
+        {
+            Onkopäällä= false;
+            Console.WriteLine("Kiuas ei ole päällä");
+        }
+
+        public void MuutaLämpötilaa(int uusilämpötila)
+        {
+            if (Onkopäällä)
+            {
+                Lämpötila = uusilämpötila;
+                Console.WriteLine("Saunan lämpötila on " + Lämpötila);
+            }
+
+        }
+            public void MuutaKosteutta(int uusikosteus)
+            {
+                if (Onkopäällä)
+                {
+                    Kosteus = uusikosteus;
+                    Console.WriteLine("Saunan kosteus on " + Kosteus);
+                }
+
+
+
+
+            }
 
     }
 }

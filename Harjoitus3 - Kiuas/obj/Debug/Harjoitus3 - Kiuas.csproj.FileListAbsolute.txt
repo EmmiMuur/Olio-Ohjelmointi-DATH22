@@ -1,0 +1,8 @@
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus3 - Kiuas\bin\Debug\Harjoitus3 - Kiuas.exe.config
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus3 - Kiuas\bin\Debug\Harjoitus3 - Kiuas.exe
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus3 - Kiuas\bin\Debug\Harjoitus3 - Kiuas.pdb
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus3 - Kiuas\obj\Debug\Harjoitus3 - Kiuas.csproj.AssemblyReference.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus3 - Kiuas\obj\Debug\Harjoitus3 - Kiuas.csproj.SuggestedBindingRedirects.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus3 - Kiuas\obj\Debug\Harjoitus3 - Kiuas.csproj.CoreCompileInputs.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus3 - Kiuas\obj\Debug\Harjoitus3 - Kiuas.exe
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus3 - Kiuas\obj\Debug\Harjoitus3 - Kiuas.pdb

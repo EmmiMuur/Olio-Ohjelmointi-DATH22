@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus3 - Kiuas", "..\Ha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus5 - Laskin", "..\Harjoitus5 - Laskin\Harjoitus5 - Laskin.csproj", "{EAFB6180-CC4D-4E4D-A2F9-79030A39D9F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus7 - Hissi", "..\Harjoitus7 - Hissi\Harjoitus7 - Hissi.csproj", "{515BDEAE-E68B-45A9-A247-48BE6BA8DA67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EAFB6180-CC4D-4E4D-A2F9-79030A39D9F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAFB6180-CC4D-4E4D-A2F9-79030A39D9F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAFB6180-CC4D-4E4D-A2F9-79030A39D9F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515BDEAE-E68B-45A9-A247-48BE6BA8DA67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515BDEAE-E68B-45A9-A247-48BE6BA8DA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515BDEAE-E68B-45A9-A247-48BE6BA8DA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515BDEAE-E68B-45A9-A247-48BE6BA8DA67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

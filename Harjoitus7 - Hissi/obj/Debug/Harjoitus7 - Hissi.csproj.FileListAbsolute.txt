@@ -1,0 +1,8 @@
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus7 - Hissi\bin\Debug\Harjoitus7 - Hissi.exe.config
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus7 - Hissi\bin\Debug\Harjoitus7 - Hissi.exe
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus7 - Hissi\bin\Debug\Harjoitus7 - Hissi.pdb
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus7 - Hissi\obj\Debug\Harjoitus7 - Hissi.csproj.AssemblyReference.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus7 - Hissi\obj\Debug\Harjoitus7 - Hissi.csproj.SuggestedBindingRedirects.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus7 - Hissi\obj\Debug\Harjoitus7 - Hissi.csproj.CoreCompileInputs.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus7 - Hissi\obj\Debug\Harjoitus7 - Hissi.exe
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus7 - Hissi\obj\Debug\Harjoitus7 - Hissi.pdb

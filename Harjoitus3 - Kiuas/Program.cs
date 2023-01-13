@@ -10,6 +10,17 @@ namespace Harjoitus3___Kiuas
     {
         static void Main(string[] args)
         {
+            Kiuas kiuas = new Kiuas();
+            kiuas.KiuasPäälle();
+            kiuas.MuutaKosteutta(7);
+            kiuas.MuutaLämpötilaa(8);
+           
+            
+            
+
+            
+           
+
         }
     }
 }
