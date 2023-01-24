@@ -1,0 +1,16 @@
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus15 - Autolaskuri\bin\Debug\Harjoitus15 - Autolaskuri.exe.config
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus15 - Autolaskuri\bin\Debug\Harjoitus15 - Autolaskuri.exe
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus15 - Autolaskuri\bin\Debug\Harjoitus15 - Autolaskuri.pdb
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus15 - Autolaskuri\obj\Debug\Harjoitus15 - Autolaskuri.csproj.AssemblyReference.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus15 - Autolaskuri\obj\Debug\Harjoitus15 - Autolaskuri.csproj.SuggestedBindingRedirects.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus15 - Autolaskuri\obj\Debug\MainWindow.g.cs
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus15 - Autolaskuri\obj\Debug\App.g.cs
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus15 - Autolaskuri\obj\Debug\Harjoitus15 - Autolaskuri_MarkupCompile.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus15 - Autolaskuri\obj\Debug\Harjoitus15 - Autolaskuri_MarkupCompile.lref
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus15 - Autolaskuri\obj\Debug\MainWindow.baml
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus15 - Autolaskuri\obj\Debug\Harjoitus15 - Autolaskuri.g.resources
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus15 - Autolaskuri\obj\Debug\Harjoitus15___Autolaskuri.Properties.Resources.resources
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus15 - Autolaskuri\obj\Debug\Harjoitus15 - Autolaskuri.csproj.GenerateResource.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus15 - Autolaskuri\obj\Debug\Harjoitus15 - Autolaskuri.csproj.CoreCompileInputs.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus15 - Autolaskuri\obj\Debug\Harjoitus15 - Autolaskuri.exe
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus15 - Autolaskuri\obj\Debug\Harjoitus15 - Autolaskuri.pdb

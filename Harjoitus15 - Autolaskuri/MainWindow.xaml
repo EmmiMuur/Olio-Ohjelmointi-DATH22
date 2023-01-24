@@ -1,0 +1,25 @@
+﻿<Window x:Class="Harjoitus15___Autolaskuri.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Harjoitus15___Autolaskuri"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock x:Name="txt_ekateksti" HorizontalAlignment="Left" Margin="260,227,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txt_tokateksti" HorizontalAlignment="Left" Margin="453,235,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <Button x:Name="bdn_ekanappi" Content="Button" HorizontalAlignment="Left" Margin="260,127,0,0" VerticalAlignment="Top" Click="bdn_ekanappi_Click" Height="37" Width="74"/>
+        <Button x:Name="bdn_tokanappi" Content="Button" HorizontalAlignment="Left" Margin="441,127,0,0" VerticalAlignment="Top" Click="bdn_tokanappi_Click" RenderTransformOrigin="0.5,0.5" Height="37" Width="77">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.007"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+    </Grid>
+</Window>

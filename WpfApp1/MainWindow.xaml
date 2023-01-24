@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="bdn_ekanappi">
+        <TextBlock x:Name="txt_ekateksti" TextWrapping="Wrap" Text="TextBlock" Margin="182,144,421,217" RenderTransformOrigin="0.486,0.574"/>
+        <Button x:Name="bdn_ekanappi1" Content="Button" Click="Button_Click" Margin="400,197,335,204"/>
+        <TextBox x:Name="input_nimi" TextWrapping="Wrap" Text="TextBox" Margin="552,166,155,230" RenderTransformOrigin="0.541,0.498"/>
+        <Button x:Name="bdn_tokanappi" Content="Button" HorizontalAlignment="Left" Margin="280,197,0,0" VerticalAlignment="Top" Height="31" Width="66" Click="bdn_tokanappi_Click"/>
+
+    </Grid>
+</Window>

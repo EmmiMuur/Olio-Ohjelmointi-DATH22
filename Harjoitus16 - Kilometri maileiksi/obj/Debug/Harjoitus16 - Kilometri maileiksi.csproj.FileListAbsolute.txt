@@ -1,0 +1,16 @@
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus16 - Kilometri maileiksi\bin\Debug\Harjoitus16 - Kilometri maileiksi.exe.config
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus16 - Kilometri maileiksi\bin\Debug\Harjoitus16 - Kilometri maileiksi.exe
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus16 - Kilometri maileiksi\bin\Debug\Harjoitus16 - Kilometri maileiksi.pdb
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus16 - Kilometri maileiksi\obj\Debug\Harjoitus16 - Kilometri maileiksi.csproj.AssemblyReference.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus16 - Kilometri maileiksi\obj\Debug\Harjoitus16 - Kilometri maileiksi.csproj.SuggestedBindingRedirects.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus16 - Kilometri maileiksi\obj\Debug\MainWindow.g.cs
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus16 - Kilometri maileiksi\obj\Debug\App.g.cs
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus16 - Kilometri maileiksi\obj\Debug\Harjoitus16 - Kilometri maileiksi_MarkupCompile.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus16 - Kilometri maileiksi\obj\Debug\Harjoitus16 - Kilometri maileiksi_MarkupCompile.lref
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus16 - Kilometri maileiksi\obj\Debug\MainWindow.baml
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus16 - Kilometri maileiksi\obj\Debug\Harjoitus16 - Kilometri maileiksi.g.resources
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus16 - Kilometri maileiksi\obj\Debug\Harjoitus16___Kilometri_maileiksi.Properties.Resources.resources
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus16 - Kilometri maileiksi\obj\Debug\Harjoitus16 - Kilometri maileiksi.csproj.GenerateResource.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus16 - Kilometri maileiksi\obj\Debug\Harjoitus16 - Kilometri maileiksi.csproj.CoreCompileInputs.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus16 - Kilometri maileiksi\obj\Debug\Harjoitus16 - Kilometri maileiksi.exe
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Harjoitus16 - Kilometri maileiksi\obj\Debug\Harjoitus16 - Kilometri maileiksi.pdb

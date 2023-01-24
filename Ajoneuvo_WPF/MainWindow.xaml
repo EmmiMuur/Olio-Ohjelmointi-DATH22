@@ -1,0 +1,17 @@
+﻿<Window x:Class="Ajoneuvo_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ajoneuvo_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Luo_Ajoneuvo_olio" Content="Luo ajoneuvo" HorizontalAlignment="Left" Margin="436,182,0,0" VerticalAlignment="Top" Height="55" Width="91" Click="Button_Click"/>
+        <TextBox x:Name="Malli" HorizontalAlignment="Left" Margin="153,165,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Maksiminopeus" HorizontalAlignment="Left" Margin="153,201,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Renkaiden_määrä" HorizontalAlignment="Left" Margin="153,237,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="txt_LuotuAjoneuvo" HorizontalAlignment="Left" Margin="153,280,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="490"/>
+
+    </Grid>
+</Window>
