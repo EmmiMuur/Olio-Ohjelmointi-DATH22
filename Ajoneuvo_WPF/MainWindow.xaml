@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="Luo_Ajoneuvo_olio" Content="Luo ajoneuvo" HorizontalAlignment="Left" Margin="436,182,0,0" VerticalAlignment="Top" Height="55" Width="91" Click="Button_Click"/>
+        <Button x:Name="Luo_Ajoneuvo_olio" Content="Luo ajoneuvo" HorizontalAlignment="Left" Margin="429,182,0,0" VerticalAlignment="Top" Height="55" Width="91" Click="Button_Click"/>
         <TextBox x:Name="Malli" HorizontalAlignment="Left" Margin="153,165,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="Maksiminopeus" HorizontalAlignment="Left" Margin="153,201,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="Renkaiden_määrä" HorizontalAlignment="Left" Margin="153,237,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>

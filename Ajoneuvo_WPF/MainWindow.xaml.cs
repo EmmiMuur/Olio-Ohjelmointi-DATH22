@@ -20,7 +20,7 @@ namespace Ajoneuvo_WPF
     /// </summary>
     public partial class MainWindow : Window
     {
-        //List aolemassa olevista autoista
+        //Lista olemassa olevista autoista
         List<Ajoneuvo> ajoneuvot = new List<Ajoneuvo>();
         public MainWindow()
         {

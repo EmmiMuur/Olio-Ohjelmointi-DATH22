@@ -1,0 +1,16 @@
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Talo_WPF\bin\Debug\Talo_WPF.exe.config
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Talo_WPF\bin\Debug\Talo_WPF.exe
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Talo_WPF\bin\Debug\Talo_WPF.pdb
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Talo_WPF\obj\Debug\Talo_WPF.csproj.AssemblyReference.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Talo_WPF\obj\Debug\Talo_WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Talo_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Talo_WPF\obj\Debug\App.g.cs
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Talo_WPF\obj\Debug\Talo_WPF_MarkupCompile.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Talo_WPF\obj\Debug\Talo_WPF_MarkupCompile.lref
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Talo_WPF\obj\Debug\MainWindow.baml
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Talo_WPF\obj\Debug\Talo_WPF.g.resources
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Talo_WPF\obj\Debug\Talo_WPF.Properties.Resources.resources
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Talo_WPF\obj\Debug\Talo_WPF.csproj.GenerateResource.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Talo_WPF\obj\Debug\Talo_WPF.csproj.CoreCompileInputs.cache
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Talo_WPF\obj\Debug\Talo_WPF.exe
+C:\Users\emmi.muurinen\source\repos\EmmiMuur\Olio-Ohjelmointi-DATH22\Talo_WPF\obj\Debug\Talo_WPF.pdb
