@@ -1,0 +1,49 @@
+﻿<Window x:Class="Lopputyö_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lopputyö_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btn_flanelli" HorizontalAlignment="Left" Margin="47,0,0,0" VerticalAlignment="Center" Height="140" Width="147" Click="Button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/Image1.png"/>
+            </Button.Background>
+
+        </Button>
+        <TextBlock x:Name="Vaate_Hinnasto" HorizontalAlignment="Center" Margin="0,32,0,0" TextWrapping="Wrap" Text="Vaate Hinnasto" VerticalAlignment="Top" Height="26" Width="84"/>
+        <TextBlock x:Name="txt_hinta1" HorizontalAlignment="Left" Margin="47,307,0,0" TextWrapping="Wrap" Text="Hinta:" VerticalAlignment="Top"/>
+        <Button x:Name="btn_takki" HorizontalAlignment="Left" Margin="238,150,0,0" VerticalAlignment="Top" Height="137" Width="142">
+            <Button.Background>
+                <ImageBrush ImageSource="/Image10.png"/>
+            </Button.Background>
+
+        </Button>
+        <Button x:Name="btn_tpaita" HorizontalAlignment="Left" Margin="431,150,0,0" VerticalAlignment="Top" Height="140" Width="141">
+            <Button.Background>
+                <ImageBrush ImageSource="https://content.instructables.com/FIA/WZ27/IDUQWGCR/FIAWZ27IDUQWGCR.jpg?auto=webp&amp;fit=bounds&amp;frame=1&amp;height=1024&amp;width=1024auto=webp&amp;frame=1&amp;height=150"/>
+            </Button.Background>
+
+        </Button>
+        <Button x:Name="btn_farkut" HorizontalAlignment="Left" Margin="615,150,0,0" VerticalAlignment="Top" Height="140" Width="139">
+            <Button.Background>
+                <ImageBrush ImageSource="https://www.rudecru.com/eu/28320-medium_default/townz-fashion-pants-royalty-reigns-navy.jpg"/>
+            </Button.Background>
+
+        </Button>
+        <TextBlock x:Name="txt_hinta2" HorizontalAlignment="Left" Margin="238,307,0,0" TextWrapping="Wrap" Text="Hinta:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txt_hinta3" HorizontalAlignment="Left" Margin="431,307,0,0" TextWrapping="Wrap" Text="Hinta:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txt_hinta4" HorizontalAlignment="Left" Margin="615,307,0,0" TextWrapping="Wrap" Text="Hinta:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txt_materiaalit1" HorizontalAlignment="Left" Margin="47,331,0,0" TextWrapping="Wrap" Text="Materiaalit:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txt_materiaalit2" HorizontalAlignment="Left" Margin="238,331,0,0" TextWrapping="Wrap" Text="Materiaalit:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txt_materiaalit3" HorizontalAlignment="Left" Margin="431,331,0,0" TextWrapping="Wrap" Text="Materiaalit:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txt_materiaalit4" HorizontalAlignment="Left" Margin="615,331,0,0" TextWrapping="Wrap" Text="Materiaalit:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txt_valmistus1" HorizontalAlignment="Left" Margin="47,352,0,0" TextWrapping="Wrap" Text="Valmistus:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txt_valmistus2" HorizontalAlignment="Left" Margin="238,352,0,0" TextWrapping="Wrap" Text="Valmistus:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txt_valmistus3" HorizontalAlignment="Left" Margin="431,355,0,0" TextWrapping="Wrap" Text="Valmistus:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txt_valmistus4" HorizontalAlignment="Left" Margin="615,360,0,0" TextWrapping="Wrap" Text="Valmistus:" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
